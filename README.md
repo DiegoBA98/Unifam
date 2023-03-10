@@ -35,7 +35,7 @@ Cuenta infantil / juvenil (0 a 18 años)
 - 1 Identificación oficial vigente del padre o tutor
 - 2 Comprobante de domicilio reciente
 - 3 Acta de nacimiento (del menor)
-- 4 Acta de nacimiento (del menor)
+- 4 CURP (del menor) 
 
 
 Al menos uno de los padres o tutor debe estar
